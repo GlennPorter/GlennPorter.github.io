@@ -1,0 +1,303 @@
+{
+	"personal_details": {
+		"date_of_birth": "02/04/1985",
+		"telephone_number": "07969770258",
+		"email": "glennporter.developer@gmail.com",
+		"about": [
+			"I am a hard-working, motivated and extremely enthusiastic Android developer with experience developing on other mobile platforms (iOS and BlackBerry), web technologies (server-side with C#/ASP.NET and Node.js; and front end with JavaScript (Angular.js, jQuery) and Windows (C#). I have excellent programming and technical skills, am confident in my ability and very eager to learn. This, combined with my sociable personality, makes me an excellent candidate for a lead developer position. I am very eager to learn new technologies, programming languages and new ways of working, and love a challenge.",
+			"My career aim is to become an expert mobile developer in an exciting and successful organisation, with the view of ascending to a position of software architect or similar with further experience in the future."
+		]
+	},
+	"education": [
+		{
+			"from": 1062370800000,
+			"to": 1183158000000,
+			"educational_establishment": {
+				"name": "Queen's University Belfast",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.5844087,
+				"longitude": -5.9362381,
+				"type": "University"
+			},
+			"qualification_levels": [
+				{
+					"name": "BSc (Hons) Computer Science (with industrial placement",
+					"result": "2:2",
+					"qualification_detail": [
+						"Learnt how to program and developed my programming abilities using mainly Java.",
+						"Achieved a first class honours mark in my dissertation project (a data management system for a car dealership).",
+						"Achieved a first class honours mark in Multimedia"
+					]
+				}
+			]
+		},
+		{
+			"from": 841532400000,
+			"to": 1056927600000,
+			"educational_establishment": {
+				"name": "Belfast High School",
+				"city": "Newtownabbey",
+				"country": "N. Ireland",
+				"latitude": 54.6868258,
+				"longitude": -5.8787477,
+				"type": "Secondary School"
+			},
+			"qualification_levels": [
+				{
+					"name": "A Level",
+					"qualification_detail": [
+						"Business Studies - A",
+						"ICT - A",
+						"Design and Technology - C"
+					]
+				},
+				{
+					"name": "GCSE",
+					"qualification_detail": [
+						"Information Systems - A*"
+						,
+						"French - A",
+						"Physical Education - A",
+						"Mathematics - B",
+						"English Language - B",
+						"English Literature - B",
+						"Science (Double Award) - BB",
+						"Design and Technology - C",
+						"History - C"
+					]
+				}
+			]
+		}
+	],
+	"jobs": [
+		{
+			"from": 1420070400000,
+			"to": 1477958400000,
+			"company": {
+				"name": "GoConqr (formerly ExamTime)",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.599237,
+				"longitude": -5.9249278
+			},
+			"title": "Android Developer",
+			"detail": [
+				"GoConqr is a leading educational website which allows users to create, use and share various types of study aids to assist them in their studies. The company also develops native clients for Android and iOS that communicate with the web app to allow students and teachers to experience it on their devices.",
+				"This role is highly focused on the development of the GoConqr Android product and therefore has allowed me to improve my Android development skills significantly. The GoConqr API is a Ruby on Rails REST API, which has given me exposure to this popular language and web framework."
+			]
+		},
+		{
+			"from": 1382223600000,
+			"to": 1419984000000,
+			"company": {
+				"name": "i3 Digital",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.6292816,
+				"longitude": -5.9127741
+			},
+			"title": "App Developer (Android and iOS)",
+			"detail": [
+				"The company develops content management systems using Kentico and EPiServer for customers of varying sizes across Northern Ireland and the Republic of Ireland.",
+				"In recent times i3 has moved into the mobile space and has developed several data-driven Android and iOS apps for existing CMS customers and new contracts.",
+				"Notable customers include Dublin Bus, Translink and Discover Northern Ireland.",
+				"I have built considerably on my existing experience with the Android platform, developing the Discover Lough Neagh app entirely by myself and developing the Fare Calculator section of the Dublin Bus app in conjunction with a colleague.",
+				"I developed a workflow management app for a UK-wide haulage firm. Running on Android and optimised for 7 inch tablets, this app retrieves a driver’s delivery itinerary for the day and allows them to update head office in real time of their progress, replacing a paper-based system that was used previously.",
+				"Gained new experience in iOS and Objective-C developing the Fare Calculator section of the Dublin Bus iOS app, which was started by another developer but the majority of the work was completed by myself.",
+				"Along with these mobile skills, I have gained useful experience developing for the EPiServer content management system whilst working on the Dublin Bus project.",
+				"Gained limited exposure to the Appcelerator Titanium mobile framework, which allows native apps to be developed in JavaScript for multiple platforms including Android, iOS and BlackBerry. The project using this framework was developed for i3 by a contractor; and although I wasn’t hugely impressed with it, it was useful and interesting experience."
+			]
+		},
+		{
+			"from": 1346454000000,
+			"to": 1381791600000,
+			"company": {
+				"name": "Arts Alliance Media",
+				"city": "London",
+				"country": "England",
+				"latitude": 51.4919462,
+				"longitude": -0.2293074
+			},
+			"title": "Sofware Developer (Node.js, Python, Angular JS)",
+			"detail": [
+				"Company develops web applications used in digital cinemas worldwide, written using technologies varying from Node.js to Python.",
+				"Involved in the development of an advertisement management system for cinema lobbies and screens.",
+				"Assigned a joint development and project management role in a project to develop a Bit-torrent content distribution system.",
+				"Tasked with the configuration of the development team’s continuous integration server, for which Jenkins was used.",
+				"Worked briefly on a finance/back office application written in Python and using the Django web development framework.",
+				"Used GitHub and SVN for source control.",
+				"Gained invaluable experience in Linux (CentOS) and Amazon Web Services.",
+				"Worked in a SCRUM environment."
+			]
+		},
+		{
+			"from": 1312153200000,
+			"to": 1320105600000,
+			"company": {
+				"name": "Liberty Information Technology",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.5934237,
+				"longitude": -5.9302623
+			},
+			"title": "Sofware Developer (.NET)",
+			"detail": [
+				"I briefly left TotalMobile to work for Liberty Information Technology as an ASP.NET developer.",
+				"Contributed to the development of several Underwriting platforms in the Liberty International Underwriters team.",
+				"I returned to TotalMobile after three months as I wanted to return to mobile development.",
+				"Regardless of the brevity of this role, I feel I improved as a developer and gave me experience working in a large organisation."
+			]
+		},
+		{
+			"from": 1251759600000,
+			"to": 1346454000000,
+			"company": {
+				"name": "TotalMobile",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.606576,
+				"longitude": -5.9220487
+			},
+			"title": "Sofware Developer (Android, BlackBerry, Windows Mobile, C# server)",
+			"detail": [
+				"The company develops a job management-based mobile working solution for mainly public sector customers.",
+				"Includes client apps on Android, BlackBerry, iOS, Windows Mobile 6 and Windows 7 desktop, and extensive C# server-side code.",
+				"Jobs (amongst other data) for users are synchronised to the users’ phones using an in-house sync engine. This data is stored on the client devices in a SQLite database.",
+				"The product contains significantly complex pieces of code which I have had to work on. For example, custom properties that are sent down with a user’s jobs can be used to prepopulate forms filled out as part of the job they belong to. Each property can in turn have child properties, meaning recursion is involved in reading and writing these values on the client.",
+				"Worked on server components written in C# .NET 4.0.",
+				"Gained experience in unit testing (using JUnit, NUnit, Mockito and Robolectric), system testing and also support.",
+				"Worked in a SCRUM environment throughout my employment at TotalMobile.",
+				"Notable customers include Capita, Newcastle City Council, State of Arkansas Healthcare and Buckinghamshire Fire."
+			]
+		},
+		{
+			"from": 1233446400000,
+			"to": 1251759600000,
+			"company": {
+				"name": "Equiniti ICS",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.6333134,
+				"longitude": -5.8704845
+			},
+			"title": "Support Analyst / Developer (C#, VB6)",
+			"detail": [
+				"Gained experience providing support and code maintenance for customers such as the Department of Enterprise, Trade and Investment (DETI), N. Ireland Court Funds Service and Phoenix Natural Gas. Each of these systems was completely different and bespoke in terms of their purpose and how they worked.",
+				"First job on return to the UK after travelling since June 2008.",
+				"Development experience in C# .NET 2.0 and Visual Basic 6.",
+				"Experience using Microsoft SQL Server 2005.",
+				"Involved in a data migration project, upgrading a customer’s system from a Windows Server 2000 enviroment with SQL Server 6 to Windows Server 2008 with SQL Server 2005."
+			]
+		},
+		{
+			"from": 1220223600000,
+			"to": 1229731200000,
+			"company": {
+				"name": "Macquarie Bank",
+				"city": "Sydney",
+				"country": "Australia",
+				"latitude": -33.8668637,
+				"longitude": 151.2096685
+			},
+			"title": "Contractor Software Developer (C#)",
+			"detail": [
+				"Developed enhancements and repaired defects for the COIN financial planning software suite, used by many leading Australian institutions such as ANZ, Commonwealth Bank and AMP Wealth Management.",
+				"Three month contract for the duration of my stay in Sydney following travelling in USA, the Cook Islands and Australia as part of a world trip.",
+				"Development was carried out using C# .NET 2.0, which built on my existing knowledge.",
+				"Work involved extracting data from the main COIN system and using this data to produce reports and letters for customers, often involving complex calculations and projections.",
+				"Testing and providing support for code I had written was also involved in my role.",
+				"Invaluable experience working and living in another country."
+			]
+		},
+		{
+			"from": 1207004400000,
+			"to": 1213916400000,
+			"company": {
+				"name": "Equiniti ICS",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.6333134,
+				"longitude": -5.8704845
+			},
+			"title": "Sofware Engineer (C#, VB6)",
+			"detail": [
+				"Work involved developing new features and fixing defects in an existing solution for the Forensics Service of Northern Ireland.",
+				"Short-term temporary contract to bridge the gap between my previous job at Autonomy and embarking on a round the world trip in June 2008.",
+				"Gained further experience in C# .NET 2.0 in a field in which accuracy of calculations is essential (forensics).",
+				"Improved my knowledge of Windows Forms and C# web services.",
+				"Visual Basic 6 was also used for legacy components of the system.",
+				"Microsoft SQL Server 2005 was used to store data for the system."
+			]
+		},
+		{
+			"from": 1117580400000,
+			"to": 1207004400000,
+			"company": {
+				"name": "Autonomy",
+				"city": "Belfast",
+				"country": "N. Ireland",
+				"latitude": 54.6132205,
+				"longitude": -5.9044194
+			},
+			"title": "Sofware Developer (C#)",
+			"detail": [
+				"Involved in the professional services side of an industry-leading document and records management system (Meridio).",
+				"Joined on placement during my degree, worked part-time during final year, and joined as a graduate in July 2007.",
+				"Learnt to develop code in C# and built on this skill considerably over my employment.",
+				"Work involved mainly C# .NET 1.1 and 2.0 Windows Forms, ASP.NET and C# web services, with significant exposure to Microsoft SQL Server 2005.",
+				"Experience on large projects such as an AJAX-enabled ASP.NET web application to monitor document conversion.",
+				"Notable customers include the Ministry of Defense, StatOil (Norwegian oil company), ConocoPhillips (US oil company) and McGrath Nicols (Australian advisory firm)."
+			]
+		}
+	],
+	"technical_experience": [
+		"Android Studio",
+		"Eclipse",
+		"Microsoft Visual Studio 2003/2005/2008/2010",
+		"GitHub",
+		"Microsoft Team Foundation Server",
+		"HTML",
+		"JSON",
+		"XML",
+		"XSLT",
+		"CSS",
+		"Python",
+		"Leaflet.js",
+		"EPiServer CMS",
+		"HubSpot API",
+		"Adobe Photoshop"
+	],
+	"languages": [
+		{
+			"name": "French",
+			"description": "Basic level, to GCSE"
+		},
+		{
+			"name": "Italian",
+			"description": "Basic level, Step 1 and 2 June 2011"
+		}
+	],
+	"interests": [
+		{
+			"icon": "music",
+			"text": "Music, both listening and playing (bass guitar). I love watching unsigned bands play live."
+		},
+		{
+			"icon": "camera",
+			"text": "Photography (both personal and as a paid side project). I completed a part-time City and Guilds Level 2 Photo Image Capture course in June 2012 and achieved a Distinction."
+		},
+		{
+			"icon": "games",
+			"text": "Computer gaming, something I have loved since I was a child."
+		},
+		{
+			"icon": "plane",
+			"text": "Travel (I travelled around the world in 2008, visiting eight countries)."
+		},
+		{
+			"icon": "football",
+			"text": "Football and running (I have participated in the Belfast and Brighton marathons, along with numerous other half marathons and 10K runs)."
+		}
+	]
+}
